@@ -207,8 +207,10 @@ Example:
 A Telugu speaker:
 
 C₁: Reading Bengali either in Telugu script or Bengali. 
-C₂: Repeating Tamil dialogues as is by a reference audio or a language expert
-C₃: Singing a song in Odia after listening to it
+
+C₂: Repeating Tamil dialogues as is by a reference audio or a language expert.
+
+C₃: Singing a song in Odia after listening to it.
 
 
 
