@@ -190,11 +190,11 @@ C Set – Learning Languages
 
 Speech in C Set is collected in progressive accent stages:
 
-C₁ (Take 1) = cold attempt
+Take 1 = cold attempt
 
-C₂ (Take 2) = after reference audio
+Take 2 = after reference audio
 
-C₃ (Take 3) = after expert correction
+Take 3 = after expert correction
 
 
 This set embodies the entropic learning curve of accent formation.
@@ -206,11 +206,9 @@ Example:
 
 A Telugu speaker:
 
-C₁: Sanskrit chanting (attempted with Telugu accent)
-
-C₂: Bengali script after hearing a reference
-
-C₃: Refined Kannada after feedback
+C₁: Reading Bengali either in Telugu script or Bengali. 
+C₂: Repeating Tamil dialogues as is by a reference audio or a language expert
+C₃: Singing a song in Odia after listening to it
 
 
 
